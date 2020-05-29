@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace APO.Utility
 {
+    //komentarz testowy v2
     class Histogram
     {
         public static Dictionary<Color, int> HistogramMap(Bitmap image)
